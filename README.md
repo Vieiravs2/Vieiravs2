@@ -1,7 +1,7 @@
 ## <h1 border="none" align="center"> Saudações! 🚀</h1>
 <br>
 <h4>Meu nome é Matheus Vieira, seja bem-vindo(a) ao meu GitHub!</h4>
-<h4>Sou um entusiasta da tecnologia e programação. Estou atualmente estudando Desenvolvimento Web pela <a href="https://www.betrybe.com/">Trybe</a> e sempre em busca de novos desafios e oportunidades para crescer profissionalmente.</h4>
+<h4>Sou um entusiasta da tecnologia e programação. Estou atualmente estudando Desenvolvimento Web pela Trybe e sempre em busca de novos desafios e oportunidades para crescer profissionalmente.</h4>
 <h4>Combinando minhas habilidades, dedicação e vontade de me aperfeiçoar, acredito que posso contribuir de maneira benéfica em equipes de trabalho diversas e abrangentes. Estou ansioso por uma oportunidade de evoluir e aprender ainda mais como desenvolvedor.</h4>
 <br>
 <br>
