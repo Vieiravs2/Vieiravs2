@@ -1,13 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc2ca&height=120&section=header"/>
-<br>
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=980&height=200&lines=N%C3%A3o+interessa+quantos+%22n%C3%A3os%22+a+vida+te+der.+;Um+%C3%BAnico+%22sim%22+pode+mudar+a+sua+hist%C3%B3ria+para+sempre.++;%C3%89+como+cavar+de+forma+exaustiva+at%C3%A9+encontrar+uma+mina+de+ouro.+Continue." alt="Typing SVG" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc2ca&height=120&section=footer"/>
-<br>
-<br>
-
 ## <h1 border="none" align="center"> Saudações! 🚀</h1>
 <br>
 <br>
